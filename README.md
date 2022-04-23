@@ -3,7 +3,7 @@ simple to-do project with local database
 ## Telas
 ![](https://github.com/felipeasr/todotasker/blob/master/2022-04-23-15-21-18.gif?raw=true)
 ## APK
-- https://drive.google.com/file/d/1sX_dphUFHxDtn4H2dZdB5xenVZ6XuRTm/view?usp=sharing
+- https://bit.ly/TodoTasker
 ## Credits
 - project based on project https://github.com/burhanrashid52/WhatTodo
 ## License
